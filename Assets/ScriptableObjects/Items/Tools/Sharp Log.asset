@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98c5b8c8ef6b64d098987f1a2c7af064, type: 3}
+  m_Name: Sharp Log
+  m_EditorClassIdentifier: 
+  ItemId: 6
+  ItemName: Sharp Log
+  Image: {fileID: 982795062, guid: 19cbf04310d8f41438d4dbf16a1d8d4f, type: 3}
+  IsStackable: 0
+  toolType: 4
+  breakLevel: 0
+  speedMultiplier: 1
+  toolPartItems: []
+  maxDurability: 2
+  durability: 2

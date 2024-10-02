@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c0c9c5f6b25e47abab704de282a268d, type: 3}
+  m_Name: Stone Rod
+  m_EditorClassIdentifier: 
+  ItemId: 14
+  ItemName: Stone Rod
+  Image: {fileID: 502311812, guid: 19cbf04310d8f41438d4dbf16a1d8d4f, type: 3}
+  IsStackable: 0
+  toolPartType: 5
+  breakLevel: 0
+  addedDurability: 20
+  speedMultiplier: 1.33

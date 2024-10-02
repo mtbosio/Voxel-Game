@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 638e6af3be1154dedab21f3e3737ec55, type: 3}
+  m_Name: Tool Assembler
+  m_EditorClassIdentifier: 
+  output: {fileID: 11400000, guid: cebc94d8574ed4c9fb84cf3b8e3e4ae0, type: 2}
+  outputCount: 1
+  item_00: {fileID: 11400000, guid: 70ec0a4170bdb4364ac41a7b5a1410a8, type: 2}
+  item_10: {fileID: 11400000, guid: 70ec0a4170bdb4364ac41a7b5a1410a8, type: 2}
+  item_01: {fileID: 11400000, guid: ceb22b7a08c8e4a01899434422f34546, type: 2}
+  item_11: {fileID: 11400000, guid: ceb22b7a08c8e4a01899434422f34546, type: 2}

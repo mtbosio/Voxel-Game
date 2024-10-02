@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 638e6af3be1154dedab21f3e3737ec55, type: 3}
+  m_Name: Wood Handle
+  m_EditorClassIdentifier: 
+  output: {fileID: 11400000, guid: eb611ed440d5249b195a5e85be0bfd27, type: 2}
+  outputCount: 1
+  item_00: {fileID: 11400000, guid: ceb22b7a08c8e4a01899434422f34546, type: 2}
+  item_10: {fileID: 11400000, guid: 7cbb6d37faecf4b479d94a7c53ee817c, type: 2}
+  item_01: {fileID: 11400000, guid: ceb22b7a08c8e4a01899434422f34546, type: 2}
+  item_11: {fileID: 11400000, guid: 7cbb6d37faecf4b479d94a7c53ee817c, type: 2}
